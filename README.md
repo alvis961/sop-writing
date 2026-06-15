@@ -6,7 +6,7 @@
 
 ```mermaid
 flowchart LR
-    A[Step 1<br/>拆解+头脑风暴] --> B[Step 2<br/>生成大纲]
+    A[Step 1<br/>头脑风暴+拆解] --> B[Step 2<br/>生成大纲]
     B --> C[Step 3<br/>逐一生成]
     C --> D[Step 4<br/>生成标题]
     D --> E[Step 5<br/>全文审查]
